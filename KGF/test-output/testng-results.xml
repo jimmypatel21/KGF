@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T15:12:52 IST" name="Default suite" finished-at="2022-04-18T15:12:52 IST" duration-ms="131">
+    <groups>
+    </groups>
+    <test started-at="2022-04-18T15:12:52 IST" name="Default test" finished-at="2022-04-18T15:12:52 IST" duration-ms="131">
+      <class name="testNG.ThreadPoolSize">
+        <test-method signature="testThreadPools()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testThreadPools" finished-at="2022-04-18T15:12:52 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThreadPools -->
+        <test-method signature="testThreadPools()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testThreadPools" finished-at="2022-04-18T15:12:52 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThreadPools -->
+        <test-method signature="testThreadPools()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testThreadPools" finished-at="2022-04-18T15:12:52 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThreadPools -->
+        <test-method signature="testWithOutThreadPool()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testWithOutThreadPool" finished-at="2022-04-18T15:12:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithOutThreadPool -->
+        <test-method signature="testWithOutThreadPool()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testWithOutThreadPool" finished-at="2022-04-18T15:12:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithOutThreadPool -->
+        <test-method signature="testWithOutThreadPool()[pri:0, instance:testNG.ThreadPoolSize@6497b078]" started-at="2022-04-18T15:12:52 IST" name="testWithOutThreadPool" finished-at="2022-04-18T15:12:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithOutThreadPool -->
+      </class> <!-- testNG.ThreadPoolSize -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
